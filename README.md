@@ -20,4 +20,4 @@ This includes:
 All credits goes to Bananagaming a.k.a Maxim
 You can find all CS:GO Tweaks made by him here: https://bananagaming.tv/
 
-(I just post it here so i don't have to back it up everytime i reset my pc, and i do it a lot.. I might need help ¯\_(ツ)_/¯)
+(I just post it here so i don't have to back it up everytime i reset my pc, and i do it a lot.. I might need help xd)
