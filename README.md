@@ -17,7 +17,6 @@ This includes:
 13. Disabled useless settings
 14. Scripts (Jump+duck, Jump+throw, Advanced Bind Script, and more)
 
-All credits goes to Bananagaming a.k.a Maxim
-You can find all CS:GO Tweaks made by him here: https://bananagaming.tv/
+All credits goes to Bananagaming a.k.a Maxim, you can find all CS:GO Tweaks made by him here: https://bananagaming.tv/
 
 (I just post it here so i don't have to back it up everytime i reset my pc, and i do it a lot.. I might need help xd)
