@@ -1,4 +1,4 @@
-# CSGO-Config
+# CSGO Config
 Based on Bananagaming a.k.a Maxim, this is my version of the best CS:GO config
 
 This includes:
