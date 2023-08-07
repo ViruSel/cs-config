@@ -22,4 +22,4 @@ The crosshairs are as follows:
 2. Small sized normal crosshair
 3. Medium sized normal crosshair
 #
-All credits goes to Bananagaming a.k.a Maxim, you can find all his CS:GO Tweaks here: https://maximhere.me/customizations/
+All credits goes to Bananagaming a.k.a Maxim, you can find all his CS:GO Tweaks here: [https://maximhere.me/](https://maximhere.me/)
