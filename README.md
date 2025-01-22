@@ -1,5 +1,5 @@
-# CS:GO Config
-Based on Bananagaming a.k.a Maxim, this is my version of his CS:GO config along side some crosshairs I use
+# Counter-Strike Config
+Based on [Mr. Maxim](https://www.youtube.com/@mrmaxim)'s videos, this is my version of his CS config along side some crosshairs that I use
 #
 The autoexec includes:
 1.  Main important commands
@@ -22,4 +22,4 @@ The crosshairs are as follows:
 2. Small sized normal crosshair
 3. Medium sized normal crosshair
 #
-All credits goes to Bananagaming a.k.a Maxim, you can find all his CS:GO Tweaks here: [https://maximhere.me/](https://maximhere.me/)
+All credits goes to Bananagaming a.k.a Maxim, you can find all his CS Tweaks here: [https://maximhere.me/](https://maximhere.me/)
