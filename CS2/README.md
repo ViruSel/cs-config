@@ -1,5 +1,4 @@
 # CS2 Config
-#
 The autoexec includes:
 1.  Main important commands
 2.  Custom Bindings
@@ -13,3 +12,5 @@ The autoexec includes:
 10. Disabled useless settings
 11. Binding Scripts
 12. Advanced Bind Script
+#
+Installation: copy autoexec.cfg into *installation folder\*\game\csgo\cfg
